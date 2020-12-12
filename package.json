@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mr-crodo/gulp-4#readme",
   "devDependencies": {
+    "browser-sync": "^2.26.13",
     "gulp": "^4.0.2"
   }
 }
