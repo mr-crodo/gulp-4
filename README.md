@@ -1,7 +1,10 @@
 # gulp-4
 <p>This is an assembly Gulp-4, you can download it and use it in your projects.</p>
 
-[![Gulp-4 version](https://img.shields.io/badge/gulp--4-v0.1-orange?style=for-the-badge&logo=appveyor)](https://img.shields.io/npm/v/browser-sync)
+[![Gulp-4 version](https://img.shields.io/badge/gulp--4-v0.1-orange?style=for-the-square&logo=gulp)](https://img.shields.io/npm/v/browser-sync)
+
+[![Linkedin](https://img.shields.io/badge/mr--crodo-developer-success?style=for-the-badge&logo=react)](https://www.linkedin.com/in/mr-crodo/)
+
 #
 **Build Gulp-4 helps the layout designer and frontend developers to quickly and euvectively build projects.**
 
